@@ -33,6 +33,6 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 10
-        },
+        }
 
 ];
